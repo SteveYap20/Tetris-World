@@ -1,0 +1,69 @@
+Wavefront OBJ material file
+# Contains 5 materials
+
+newmtl Oak_Log
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka crossed_swords_statue_for_unity-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd crossed_swords_statue_for_unity-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Wool
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka crossed_swords_statue_for_unity-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd crossed_swords_statue_for_unity-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Block_of_Diamond
+Ns 242.25
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.19 0.19 0.19
+map_Ka crossed_swords_statue_for_unity-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd crossed_swords_statue_for_unity-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Acacia_Log
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka crossed_swords_statue_for_unity-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd crossed_swords_statue_for_unity-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Sea_Lantern
+Ns 216.75
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.17 0.17 0.17
+Ke 1 1 1
+map_Ka crossed_swords_statue_for_unity-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd crossed_swords_statue_for_unity-RGB.png
+map_Ke crossed_swords_statue_for_unity-RGB.png
+illum 2
+# d 1
+# Tr 0
